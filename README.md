@@ -19,7 +19,7 @@
 
 ## 🚀 Live Demo
 
-[Zur Live-Demo](oliver-geschine.de/join/index.html)
+[Zur Live-Demo](https://oliver-geschine.de/join/index.html)
 
 ## 🛠️ Technologien
 
