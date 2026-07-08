@@ -19,7 +19,7 @@
 
 ## 🚀 Live Demo
 
-[Zur Live-Demo](https://your-github-username.github.io/join) *(Link bitte anpassen)*
+[Zur Live-Demo](oliver-geschine.de/join/index.html)
 
 ## 🛠️ Technologien
 
